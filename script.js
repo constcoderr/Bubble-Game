@@ -69,3 +69,5 @@ makeBubbles();
 hitNum();
 time();
 investigation();
+
+console.log("Js Is Done!");
